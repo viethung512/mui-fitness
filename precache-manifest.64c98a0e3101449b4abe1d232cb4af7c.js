@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2db425a3a187906d9a000c284cbdc99",
+    "revision": "99fdf0b791c16b565a2ba27715c79d86",
     "url": "/mui-fitness/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mui-fitness/static/js/2.bc44b13a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa72b3baf652f4065fd2",
-    "url": "/mui-fitness/static/js/main.c8c15f72.chunk.js"
+    "revision": "2b148b5e3fdddd1e8290",
+    "url": "/mui-fitness/static/js/main.d0e2c109.chunk.js"
   },
   {
     "revision": "0648e1d871a631f93284",
