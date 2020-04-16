@@ -20,8 +20,8 @@ export const customizes = [
     title: 'Theme Type',
     name: 'type',
     datas: [
-      { label: 'Dart Theme', value: 'dark' },
-      { label: 'light Theme', value: 'light' },
+      { label: 'Dart', value: 'dark' },
+      { label: 'Light', value: 'light' },
     ],
   },
   {
